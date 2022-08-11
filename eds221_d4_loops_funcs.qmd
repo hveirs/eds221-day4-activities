@@ -1,0 +1,22 @@
+---
+title: "For Loops and Functions"
+author: "Hailey Veirs"
+format: html
+editor: visual
+execute: 
+  echo: true
+  warning: false
+  message: false
+---
+
+```{r}
+library(tidyverse)
+```
+
+
+## Part 1: For Loops
+
+```{r}
+
+```
+
